@@ -1,4 +1,4 @@
-## Actividad 2. Análisis del centro educativo
+## Actividad. Análisis del centro educativo
 
 En esta actividad, el alumnado realizará una primera aproximación al concepto de edificio inteligente y sostenible mediante el análisis de su propio centro educativo.
 
